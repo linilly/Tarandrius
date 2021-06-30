@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1624942550 source:c:\users\t540\documents\proglangfiles\c_programs\projects\tarandrius\tarandrius.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+
+1624903820 source:c:\users\t540\documents\proglangfiles\c_programs\projects\tarandrius\tarandriusc.c
+	<stdio.h>
+	<stdlib.h>
+

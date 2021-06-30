@@ -1,0 +1,19 @@
+Manual for converting (pseudo)ComputerNucleic String to C
+
+Importance Value (declared by char[12]: {})
+    Affects likelihood and magnitude of mutations
+    Goes in front of chromosomes/chromatids/codons
+    Mandatory for chomosomes
+    Optional for others
+
+Chromosome (declared by char[10]: (Enter))
+    Handles core management
+    1: Included libraries
+    2: Small functions
+    3+: Meta and core functions
+    Last: Main function
+
+Chromatin (declared by char[9]: (tab))
+    stores small functions or crucial components of a large function
+
+Genes
